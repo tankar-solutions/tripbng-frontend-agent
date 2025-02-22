@@ -11,7 +11,7 @@ export default function Navbar() {
           <Image src={"/logo.png"} width={150} height={150} alt="logo" />
         </Link>
         <div className="space-x-4">
-          <Link href="/login" className="bg-yellow py-1 px-4 rounded-md text-white font-medium">Login OR/or Signup</Link>
+          <Link href="/login" className="bg-yellow py-1 px-4 rounded-md text-white font-medium">Login or Signup</Link>
         </div>
       </div>
     </nav>
